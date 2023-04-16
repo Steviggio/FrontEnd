@@ -8,7 +8,7 @@ O        - Redirection vers la page du site avec des boutons d'actions lorsque l
 O    - Ajouter la modale pour gérer les projets:
 O        - Création d'une fenêtre modale lorsque l'on souhaite modifier des projets
 O        - Les projets apparaissent comme sur le design de Juan
-X        - Possibilité de supprimer un travail en cliquant sur l'îcone corbeille
+o        - Possibilité de supprimer un travail en cliquant sur l'îcone corbeille
 O    - Créer le formulaire pour l’ajout de projet:
 O        - 3 champs qui composent le formulaire : 
 O            - champ image pour upload une img
