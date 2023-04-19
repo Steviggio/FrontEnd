@@ -14,7 +14,3 @@ O        - 3 champs qui composent le formulaire :
 O            - champ image pour upload une img
 O            - champ pour nommer le projet
 O            - champ select pour choisir une catégorie parmis les catégories disponibles
-X    - Faire la version 2 de l’API:
-X        - Ajout des routes pour la gestion des catégories : ajouts, modification, suppression
-X        - ajout des routes pour la gestion du mot de passe de l'utilisateu(mot de passe oublié)
-X        - Compléter la documentation
